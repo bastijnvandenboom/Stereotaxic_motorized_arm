@@ -3,4 +3,5 @@ Blueprints for stereotaxic motorized arm designed and used in the Willuhn lab at
 
 Includes parts list, blueprints to CNC stereotaxic arm to motor connection, connections on Arduino, and Arduino script.
   
-![Alt text](/Stereotaxic_motorized_arm/tree/main/images/BB_Stereotaxic_Robot1.jpg)
+<img src="https://github.com/bastijnvandenboom/Stereotaxic_motorized_arm/tree/main/images/BB_Stereotaxic_Robot1.jpg" width="500" align="left">
+
